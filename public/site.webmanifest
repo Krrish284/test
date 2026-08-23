@@ -1,0 +1,10 @@
+{
+  "name": "UMBRA — Built for the Dark Hours",
+  "short_name": "UMBRA",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ],
+  "theme_color": "#060708",
+  "background_color": "#060708",
+  "display": "standalone"
+}
